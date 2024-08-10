@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharusha01&label=Profile%20views&color=0e75b6&style=flat" alt="tharusha01" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **PHP,Java**
 
 - 📫 How to reach me **tharushanishajith01@gmail.com**
 
-- ⚡ Fun fact **call me as**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
