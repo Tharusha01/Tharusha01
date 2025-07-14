@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tharusha</h1>
-<h3 align="center">A Passionate Developer From Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharusha01&label=Profile%20views&color=0e75b6&style=flat" alt="tharusha01" /> </p>
 
