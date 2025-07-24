@@ -4,11 +4,6 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **PHP,Java**
-
-- 📫 How to reach me **tharushanishajith01@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
