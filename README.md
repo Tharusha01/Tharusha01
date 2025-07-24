@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-🎯 **Passionate Full Stack Developer** specializing in **PHP** and **Vue.js**  
+🎯 **Developer**  in **PHP** and **Vue.js**  
 🌱 Currently expanding skills in **MERN Stack** development  
 💡 Always exploring new technologies and best practices  
 🔥 Building scalable web applications with modern frameworks  
