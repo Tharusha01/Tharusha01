@@ -2,7 +2,7 @@
   
 # Hi 👋, I'm Tharusha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;PHP+%26+Vue.js+Specialist;MERN+Stack+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;PHP+%26+Vue.js+;" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tharusha01&label=Profile%20views&color=4F46E5&style=for-the-badge" alt="Profile views" />
