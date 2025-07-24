@@ -1,18 +1,125 @@
-<h1 align="center">Hi 👋, I'm Tharusha</h1>
+<div align="center">
+  
+# Hi 👋, I'm Tharusha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharusha01&label=Profile%20views&color=0e75b6&style=flat" alt="tharusha01" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;PHP+%26+Vue.js+Specialist;MERN+Stack+Explorer" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **MERN stack**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tharusha-nishajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharusha-nishajith" height="30" width="40" /></a>
-<a href="https://fb.com/tharushanishajith1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharushanishajith1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tharushanishajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tharushanishajith" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tharusha01&label=Profile%20views&color=4F46E5&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/tharusha01?label=Followers&style=for-the-badge&color=4F46E5" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharusha01&show_icons=true&locale=en&layout=compact" alt="tharusha01" /></p>
+### 🚀 About Me
+
+🎯 **Passionate Full Stack Developer** specializing in **PHP** and **Vue.js**  
+🌱 Currently expanding skills in **MERN Stack** development  
+💡 Always exploring new technologies and best practices  
+🔥 Building scalable web applications with modern frameworks  
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Primary Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=php,vue,javascript,html,css" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+</p>
+
+### Frontend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
+
+### Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,photoshop,selenium,android" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tharusha01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharusha01&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharusha01&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=tharusha01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharusha01&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/tharusha01/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tharusha01&repo=project1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/tharusha01/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tharusha01&repo=project2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/tharusha-nishajith">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://fb.com/tharushanishajith1">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/c/@tharushanishajith">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer" />
+
+</div>
