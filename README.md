@@ -83,20 +83,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/tharusha01/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tharusha01&repo=project1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/tharusha01/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tharusha01&repo=project2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
 
 ## 🤝 Connect with Me
 
